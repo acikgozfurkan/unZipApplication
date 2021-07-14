@@ -1,0 +1,10 @@
+C:\Users\Acer\source\repos\UnZip\UnZip\obj\Debug\UnZip.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\UnZip\UnZip\obj\Debug\UnZip.Form1.resources
+C:\Users\Acer\source\repos\UnZip\UnZip\obj\Debug\UnZip.Properties.Resources.resources
+C:\Users\Acer\source\repos\UnZip\UnZip\obj\Debug\UnZip.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\UnZip\UnZip\obj\Debug\UnZip.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\UnZip\UnZip\bin\Debug\UnZip.exe.config
+C:\Users\Acer\source\repos\UnZip\UnZip\bin\Debug\UnZip.exe
+C:\Users\Acer\source\repos\UnZip\UnZip\bin\Debug\UnZip.pdb
+C:\Users\Acer\source\repos\UnZip\UnZip\obj\Debug\UnZip.exe
+C:\Users\Acer\source\repos\UnZip\UnZip\obj\Debug\UnZip.pdb
